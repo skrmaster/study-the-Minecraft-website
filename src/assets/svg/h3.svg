@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generated at drububu.com  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60px" height="50px" viewBox="0 0 60 50">
+<path d="M0 0h60v50h-15v-40h-42v40h-3v-50z" fill="rgba(0,0,0,0)"/>
+<path d="M3 10h33v14h-9v-3h6v-8h-27v8h9v3h-12v-14z" fill="rgb(90,75,58)"/>
+<path d="M36 10h3v14h-3v-14z" fill="rgb(60,50,38)"/>
+<path d="M39 10h6v40h-6v-3h3v-20h-3v-6h3v-8h-3v-3z" fill="rgb(47,38,28)"/>
+<path d="M6 13h27v3h-27v-3z" fill="rgb(159,100,28)"/>
+<path d="M39 13h3v3h-3v-3z" fill="rgb(102,62,17)"/>
+<path d="M6 16h3v5h-3v-5z" fill="rgb(180,112,31)"/>
+<path d="M9 16h24v5h-6v-3h-12v3h-6v-5z" fill="rgb(208,131,36)"/>
+<path d="M39 16h3v5h-3v-5z" fill="rgb(113,68,19)"/>
+<path d="M15 18h6v6h-3v-3h-3v-3z" fill="rgb(223,222,219)"/>
+<path d="M21 18h3v5h-3v-5z" fill="rgb(118,118,118)"/>
+<path d="M24 18h3v3h-3v-3z" fill="rgb(168,106,30)"/>
+<path d="M15 21h3v3h3v6h-6v-9z" fill="rgb(194,194,194)"/>
+<path d="M24 21h3v3h-3v-3z" fill="rgb(70,58,45)"/>
+<path d="M21 23h3v7h-3v-7z" fill="rgb(96,100,117)"/>
+<path d="M3 24h12v3h-9v20h27v-20h-6v-3h9v26h-33v-26z" fill="rgb(70,58,45)"/>
+<path d="M24 24h3v3h-3v-3z" fill="rgb(59,46,38)"/>
+<path d="M36 24h3v26h-3v-26z" fill="rgb(48,40,31)"/>
+<path d="M6 27h9v3h-9v-3z" fill="rgb(159,100,28)"/>
+<path d="M24 27h9v3h-9v-3z" fill="rgb(159,100,28)"/>
+<path d="M39 27h3v3h-3v-3z" fill="rgb(102,62,17)"/>
+<path d="M6 30h3v17h-3v-17z" fill="rgb(180,112,31)"/>
+<path d="M9 30h6v3h12v-3h6v17h-24v-17z" fill="rgb(208,131,36)"/>
+<path d="M15 30h12v3h-12v-3z" fill="rgb(180,112,31)"/>
+<path d="M39 30h3v15h-3v-15z" fill="rgb(113,68,19)"/>
+<path d="M39 45h3v2h-3v-2z" fill="rgb(102,62,17)"/>
+</svg>
