@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="38px" viewBox="0 0 64 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>RealmsButtonStatic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RealmsButtonStatic" transform="translate(-3.000000, -7.000000)" fill-rule="nonzero">
+            <polygon id="Shape" fill-opacity="0" fill="#000000" points="0 0 70 0 70 45 53 45 53 30 65 30 65 23 61 23 61 15 63 15 63 17 67 17 67 15 65 15 65 13 57 13 57 15 55 15 55 7 15 7 15 15 13 15 13 13 5 13 5 15 3 15 3 17 7 17 7 15 9 15 9 23 5 23 5 30 17 30 17 45 0 45"></polygon>
+            <polygon id="Shape" fill="#A05307" points="15 7 31 7 31 13 29 13 29 11 17 11 17 13 15 13"></polygon>
+            <polygon id="Shape" fill="#882F05" points="31 7 33 7 33 19 31 19"></polygon>
+            <polygon id="Shape" fill="#E4772A" points="33 7 39 7 39 17 37 17 37 21 39 21 39 23 33 23"></polygon>
+            <polygon id="Shape" fill="#F69F3A" points="39 7 55 7 55 15 53 15 53 13 51 13 51 11 47 11 47 13 45 13 45 15 39 15"></polygon>
+            <polygon id="Shape" fill="#FAC28C" points="17 11 29 11 29 13 31 13 31 23 27 23 27 19 25 19 25 17 21 17 21 15 17 15 17 17 21 17 21 19 19 19 19 23 15 23 15 13 17 13"></polygon>
+            <polygon id="Shape" fill="#FCD8B0" points="47 11 51 11 51 13 53 13 53 15 49 15 49 17 53 17 53 15 55 15 55 23 39 23 39 15 41 15 41 17 45 17 45 13 47 13"></polygon>
+            <polygon id="Shape" fill="#0980B0" points="5 13 7 13 7 15 5 15"></polygon>
+            <polygon id="Shape" fill="#41C7C5" points="7 13 13 13 13 15 7 15"></polygon>
+            <polygon id="Shape" fill="#41C7C5" points="57 13 63 13 63 15 57 15"></polygon>
+            <polygon id="Shape" fill="#0980B0" points="63 13 65 13 65 15 63 15"></polygon>
+            <polygon id="Shape" fill="#0980B0" points="3 15 5 15 5 17 3 17"></polygon>
+            <polygon id="Shape" fill="#41C7C5" points="5 15 7 15 7 17 5 17"></polygon>
+            <polygon id="Shape" fill="#882F05" points="9 15 11 15 11 23 9 23"></polygon>
+            <polygon id="Shape" fill="#0980B0" points="11 15 13 15 13 17 11 17"></polygon>
+            <polygon id="Shape" fill="#41C7C5" points="13 15 15 15 15 17 13 17"></polygon>
+            <polygon id="Shape" fill="#FFFFF6" points="17 15 19 15 19 17 17 17"></polygon>
+            <polygon id="Shape" fill="#A549C6" points="19 15 21 15 21 17 19 17"></polygon>
+            <polygon id="Shape" fill="#A549C6" points="25 15 27 15 27 17 25 17"></polygon>
+            <polygon id="Shape" fill="#FFFFF6" points="27 15 29 15 29 17 27 17"></polygon>
+            <polygon id="Shape" fill="#FFFFF6" points="41 15 43 15 43 17 41 17"></polygon>
+            <polygon id="Shape" fill="#679C2E" points="43 15 45 15 45 17 43 17"></polygon>
+            <polygon id="Shape" fill="#679C2E" points="49 15 51 15 51 17 49 17"></polygon>
+            <polygon id="Shape" fill="#FFFFF6" points="51 15 53 15 53 17 51 17"></polygon>
+            <polygon id="Shape" fill="#41C7C5" points="55 15 57 15 57 17 55 17"></polygon>
+            <polygon id="Shape" fill="#0980B0" points="57 15 59 15 59 17 57 17"></polygon>
+            <polygon id="Shape" fill="#882F05" points="59 15 61 15 61 23 59 23"></polygon>
+            <polygon id="Shape" fill="#41C7C5" points="63 15 65 15 65 17 63 17"></polygon>
+            <polygon id="Shape" fill="#0980B0" points="65 15 67 15 67 17 65 17"></polygon>
+            <polygon id="Shape" fill-opacity="0" fill="#000000" points="11 17 15 17 15 23 11 23"></polygon>
+            <polygon id="Shape" fill="#F6854A" points="21 17 25 17 25 19 21 19"></polygon>
+            <polygon id="Shape" fill="#F5B88D" points="37 17 39 17 39 21 37 21"></polygon>
+            <polygon id="Shape" fill-opacity="0" fill="#000000" points="55 17 59 17 59 23 55 23"></polygon>
+            <polygon id="Shape" fill="#A05307" points="19 19 21 19 21 21 25 21 25 19 27 19 27 23 19 23"></polygon>
+            <polygon id="Shape" fill="#FAC28C" points="21 19 25 19 25 21 21 21"></polygon>
+            <polygon id="Shape" fill="#E49453" points="31 19 33 19 33 23 31 23"></polygon>
+            <polygon id="Shape" fill="#F9A194" points="45 19 49 19 49 21 45 21"></polygon>
+            <polygon id="Shape" fill="#FAC28C" points="5 23 9 23 9 30 5 30"></polygon>
+            <polygon id="Shape" fill="#E49453" points="9 23 13 23 13 30 9 30"></polygon>
+            <polygon id="Shape" fill="#0980B0" points="13 23 17 23 17 30 13 30"></polygon>
+            <polygon id="Shape" fill="#41C7C5" points="17 23 31 23 31 33 19 33 19 35 17 35"></polygon>
+            <polygon id="Shape" fill="#55A233" points="31 23 35 23 35 31 31 31"></polygon>
+            <polygon id="Shape" fill="#7BC561" points="35 23 39 23 39 31 35 31"></polygon>
+            <polygon id="Shape" fill="#55A233" points="39 23 41 23 41 31 39 31"></polygon>
+            <polygon id="Shape" fill="#7BC561" points="41 23 43 23 43 25 45 25 45 27 47 27 47 25 49 25 49 27 51 27 51 29 53 29 53 31 41 31"></polygon>
+            <polygon id="Shape" fill="#F5B88D" points="43 23 49 23 49 25 47 25 47 27 45 27 45 25 43 25"></polygon>
+            <polygon id="Shape" fill="#F69F3A" points="49 23 53 23 53 29 51 29 51 27 49 27"></polygon>
+            <polygon id="Shape" fill="#55A233" points="53 23 57 23 57 30 53 30"></polygon>
+            <polygon id="Shape" fill="#F5B88D" points="57 23 61 23 61 30 57 30"></polygon>
+            <polygon id="Shape" fill="#FCD8B0" points="61 23 65 23 65 30 61 30"></polygon>
+            <polygon id="Shape" fill="#F5B88D" points="31 31 35 31 35 36 31 36"></polygon>
+            <polygon id="Shape" fill="#FCD8B0" points="35 31 39 31 39 36 35 36"></polygon>
+            <polygon id="Shape" fill="#013401" points="39 31 41 31 41 33 39 33"></polygon>
+            <polygon id="Shape" fill="#246804" points="41 31 53 31 53 33 41 33"></polygon>
+            <polygon id="Shape" fill="#0980B0" points="19 33 31 33 31 41 17 41 17 35 19 35"></polygon>
+            <polygon id="Shape" fill="#55A233" points="39 33 41 33 41 36 39 36"></polygon>
+            <polygon id="Shape" fill="#7BC561" points="41 33 53 33 53 36 41 36"></polygon>
+            <polygon id="Shape" fill="#2424AE" points="31 36 35 36 35 41 31 41"></polygon>
+            <polygon id="Shape" fill="#882F05" points="35 36 41 36 41 41 35 41"></polygon>
+            <polygon id="Shape" fill="#A05307" points="41 36 53 36 53 41 41 41"></polygon>
+            <polygon id="Shape" fill="#703605" points="17 41 31 41 31 45 17 45"></polygon>
+            <polygon id="Shape" fill="#501C03" points="31 41 35 41 35 45 31 45"></polygon>
+            <polygon id="Shape" fill="#8E7B71" points="35 41 41 41 41 45 35 45"></polygon>
+            <polygon id="Shape" fill="#C6B6AB" points="41 41 53 41 53 45 41 45"></polygon>
+        </g>
+    </g>
+</svg>
