@@ -14,9 +14,9 @@
                                 <b-nav-item v-for="(data, index) in hdata" :key=index class="ml-4" style="font-size:13px;" @mouseover=downchange(index) @mouseout=upchange(index)>
                                     <div class="text-nowrap justify-content-center" :id=index :ref=index @mouseover="changegif(index)" @mouseout="changegifreversed(index)">
                                         <b-img :src=data.hicon style="height:40px;width:50px;"></b-img>
-                                        <span ><router-link :to=data.linktwopage class="ml-2">
+                                        <router-link :to=data.linktwopage class="ml-2">
                                             <b-nav-text class="text-uppercase" :id=index><span @click="$emit('clearscroll')">{{data.text}}</span></b-nav-text>
-                                        </router-link></span>
+                                        </router-link>
                                         <b-icon v-if="typeof(data.testicon) != 'undefine'" :icon=data.demoicon class="ml-1"></b-icon> 
                                     </div>
                                 </b-nav-item>
@@ -28,9 +28,9 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div id="changesize" v-for="(data, index) in navpics" :key=index class="col-xl-2 col-lg-2 col-md-3 col-sm-3 col-3 mt-5">
-                                <a :href=data.pica>
-                                    <img id="imgboder" :src=data.navpic>
-                                </a>
+                                <router-link :to="data.pica">
+                                    <img id="imgboder" :src="data.navpic">
+                                </router-link>
                                 <p class="text-uppercase text-center text-white" style="width:120px;"><b>{{data.navpictext}}</b></p>
                             </div>
                         </div>

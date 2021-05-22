@@ -45,10 +45,10 @@
         <div class="mt-5 text-center pb-5">
             <div class="text-uppercase follow-text-set">Follow minecraft</div>
             <div class="mt-5 btnset">
-                <a href="#" v-for="(classth, index) in iconsvg" :key="index" class="btn p-0 svgset ml-4" style="position:relative">
+                <router-link to="#" v-for="(classth, index) in iconsvg" :key="index" class="btn p-0 svgset ml-4" style="position:relative">
                     <div class="imgset"></div>
                     <div :class="classth"></div>
-                </a>
+                </router-link>
             </div>
         </div>
         <footer1></footer1>

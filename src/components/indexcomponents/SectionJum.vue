@@ -5,7 +5,7 @@
             <template v-slot:lead>
               新游戏、新更新、新畅玩方式应有尽有，快来加入最大的游戏社区之一，今天就开启创作之旅吧！
             </template>
-            <a href="/playmethods" class="btn btn-default text-uppercase mt-5"><b>获取 minecraft</b></a>
+            <router-link to="/playmethods" class="btn btn-default text-uppercase mt-5"><b>获取 minecraft</b></router-link>
         </b-jumbotron>                
     </section>
 </template>

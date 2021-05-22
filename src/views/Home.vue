@@ -46,16 +46,16 @@
             <sectionendchild v-for="(data, index) in pic" :key=index :data=data></sectionendchild>
         </div>
         <div class="text-center mt-5">
-            <a href="\" class="btn btn-default text-uppercase mt-5"><b>Learn more</b></a>
+            <router-link href="\" class="btn btn-default text-uppercase mt-5"><b>Learn more</b></router-link>
         </div>
         <div style="height:100px"></div>
         <div class="mt-5 text-center">
             <div class="text-uppercase follow-text-set">Follow minecraft</div>
             <div class="mt-5 btnset">
-                <a href="#" v-for="(classth, index) in iconsvg" :key=index class="btn p-0 svgset ml-4" style="position:relative">
+                <router-link href="#" v-for="(classth, index) in iconsvg" :key=index class="btn p-0 svgset ml-4" style="position:relative">
                     <div class="imgset"></div>
                     <div :class=classth></div>
-                </a>
+                </router-link>
             </div>
         </div>
         <div class="text-center mt-5 pt-2 pb-5" style="font-family: 'Noto Sans';font-size:14px;">
