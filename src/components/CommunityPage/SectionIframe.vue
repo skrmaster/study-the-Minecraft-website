@@ -13,7 +13,7 @@
         </a>
         <div class="container" v-show="!iframeshow">
             <div class="row justify-content-center">
-                <iframe class="col-xl-8 col-lg-10 col-md-8 col-sm-8 col-12 m-0 p-0" ref="setheight" src="https://www.youtube.com/embed/lP56PJ5Tkp0?modestbranding=1&autohide=1&showinfo=0&controls=1&frameborder=0&rel=0&start=0&autoplay=1&enablejsapi=1&origin=https%3A%2F%2Fwww.minecraft.net&widgetid=1" allowfullscreen></iframe>
+                <iframe class="col-xl-8 col-lg-10 col-md-8 col-sm-8 col-12 m-0 p-0" ref="setheight" src="https://www.youtube.com/embed/lP56PJ5Tkp0?modestbranding=1&autohide=1&showinfo=0&controls=1&frameborder=0&rel=0&start=0&autoplay=0&enablejsapi=1&origin=https%3A%2F%2Fwww.minecraft.net&widgetid=1" allowfullscreen></iframe>
             </div>
         </div>
         <div class="container text-center">

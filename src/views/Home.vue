@@ -37,22 +37,22 @@
         <div class="row">
             <div class="col-12 col-md-12 text-center text-black mt-5"><h2>社区创作品</h2></div>
             <div class="col-12 col-md-12 text-center textset mt-2"><p>发现最好的 Add-On、模组，以及非凡的 Minecraft 社区正在创建的更多内容！</p></div>
-            <a href="#" class="linkset col-12 col-md-12 text-center mt-2 mb-5">
+            <router-link to="#" class="linkset col-12 col-md-12 text-center mt-2 mb-5">
                 <b-img :src=linkArrow class="setarrow"></b-img>
                 <span class="ml-2 mt-1">探索</span>
-            </a>
+            </router-link>
         </div>
         <div class="row">
             <sectionendchild v-for="(data, index) in pic" :key=index :data=data></sectionendchild>
         </div>
         <div class="text-center mt-5">
-            <router-link href="\" class="btn btn-default text-uppercase mt-5"><b>Learn more</b></router-link>
+            <router-link to="\" class="btn btn-default text-uppercase mt-5"><b>Learn more</b></router-link>
         </div>
         <div style="height:100px"></div>
         <div class="mt-5 text-center">
             <div class="text-uppercase follow-text-set">Follow minecraft</div>
             <div class="mt-5 btnset">
-                <router-link href="#" v-for="(classth, index) in iconsvg" :key=index class="btn p-0 svgset ml-4" style="position:relative">
+                <router-link to="#" v-for="(classth, index) in iconsvg" :key=index class="btn p-0 svgset ml-4" style="position:relative">
                     <div class="imgset"></div>
                     <div :class=classth></div>
                 </router-link>

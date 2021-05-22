@@ -3,7 +3,7 @@
         <navheader></navheader>
         <div>
             <div v-if="show" style="height:70px;"></div>
-            <navSection  @vis="op($event)" id="section2height"></navSection>
+            <navSection @vis="op($event)" id="section2height"></navSection>
         </div>
         <div style="background-color:black;">
             <div class="container setbg">
@@ -38,7 +38,7 @@
                 <div class="mt-5 text-center">
                     <div class="text-uppercase follow-text-set">Follow minecraft</div>
                     <div class="mt-5 btnset">
-                        <router-link href="#" v-for="(classth, index) in iconsvg" :key=index class="btn p-0 svgset ml-4" style="position:relative">
+                        <router-link to="#" v-for="(classth, index) in iconsvg" :key=index class="btn p-0 svgset ml-4" style="position:relative">
                             <div class="imgset"></div>
                             <div :class=classth></div>
                         </router-link>
