@@ -10,6 +10,14 @@ Vue.use(BootstrapVueIcons)
 
 Vue.config.productionTip = false
 
+router.beforeResolve((to, from, next) => {
+    if (to.matched.some(record => record.name)) {
+        next()
+    } else {
+		next('/')
+    }
+})
+
 router.beforeEach((to, from, next) => {
   /* 路由发生变化修改页面title */
   if (to.meta.title) {

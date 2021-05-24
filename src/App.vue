@@ -22,7 +22,7 @@ export default {
   }
 }
 </script>
-<style>
+<style lang="scss">
 *{
   margin:0px;
   padding:0px;
@@ -30,5 +30,17 @@ export default {
 html{
   scroll-behavior:smooth;
   overflow-x:hidden
+}
+.routerborderset {
+	border: solid red 1px;
+	outline: solid red 1px;
+
+	&::before {
+		content: '可点击区域';
+		position: relative;
+		top: 0;
+		font-size: 12px;
+		color: red;
+	}
 }
 </style>

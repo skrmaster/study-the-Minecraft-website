@@ -43,10 +43,14 @@
             </router-link>
         </div>
         <div class="row">
-            <sectionendchild v-for="(data, index) in pic" :key=index :data=data></sectionendchild>
+            <sectionendchild v-for="(data, index) in pic" :key="index" :data="data"></sectionendchild>
         </div>
         <div class="text-center mt-5">
-            <router-link to="\" class="btn btn-default text-uppercase mt-5"><b>Learn more</b></router-link>
+            <div class="">
+				<router-link to="#" class="btn btn-default text-uppercase mt-5 ">
+					<b>Learn more</b>
+				</router-link>
+			</div>
         </div>
         <div style="height:100px"></div>
         <div class="mt-5 text-center">
@@ -54,7 +58,7 @@
             <div class="mt-5 btnset">
                 <router-link to="#" v-for="(classth, index) in iconsvg" :key=index class="btn p-0 svgset ml-4" style="position:relative">
                     <div class="imgset"></div>
-                    <div :class=classth></div>
+                    <div :class="classth"></div>
                 </router-link>
             </div>
         </div>
@@ -298,5 +302,6 @@ h2{
     -moz-box-shadow: none;
     box-shadow: none;
 }
+
 </style>
 

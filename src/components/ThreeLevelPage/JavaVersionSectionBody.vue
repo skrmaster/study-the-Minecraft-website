@@ -16,7 +16,7 @@
                         </tr>
                         <tr style="font-size:12px;color:#36b030">
                             <td style="color:black">可用于:</td>
-                            <td><router-link to="/playmethods/javaversion" style="font-size:12px;color:#36b030;text-decoration:none;">windows，Mac，Linux(Java 版本)</router-link></td>
+                            <td  class="routerborderset"><router-link to="/playmethods/javaversion" style="font-size:12px;color:#36b030;text-decoration:none;">windows，Mac，Linux(Java 版本)</router-link></td>
                             <td style="border-right: 8px solid #f8f5f4;">Windows 10</td>
                             <td>iOS 系统	</td>
                             <td style="border-right: 8px solid #f8f5f4;">安卓系统</td>

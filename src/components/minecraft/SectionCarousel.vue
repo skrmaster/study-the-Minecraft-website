@@ -34,7 +34,7 @@
                                             <p>{{data.titlesmall}}</p>
                                             <b-link style="display:block;color:green;" class="mt-5">
                                                 <img style="width:20xp;height:20px;" :src="require('@/assets/svg/link-arrow.svg')">
-                                                <router-link :to="data.hrefthree" class="ml-1" style="color:green;"><span @click="$emit('clearscroll')">了解更多</span></router-link>
+                                                <router-link :to="data.hrefthree" class="ml-1 routerborderset" style="color:green;"><span @click="$emit('clearscroll')">了解更多</span></router-link>
                                             </b-link>
                                         </b-card-text>
                                     </b-card-body>
